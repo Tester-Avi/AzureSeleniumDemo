@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sanity Test Suite">
+	<test name="Sanity Testing">
+		<classes>
+			<class name="TestNG_2.A_HomeScreenTest" />
+			<class name="TestNG_2.B_LoginTest" />
+		</classes>
+	</test>
+</suite>
