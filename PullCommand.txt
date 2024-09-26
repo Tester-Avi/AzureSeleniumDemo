@@ -2,3 +2,7 @@ Hi,
 Pushed one Selenium Project in Git Hub.
 
 Now, Pull this file into Local System.
+
+Pull Command Executed successfully.
+
+Now, again push all the changes into GitHub Repository.
